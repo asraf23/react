@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.headerul ul{
+    text-decoration: none;
+    
+}
+.headerul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px;
+}
